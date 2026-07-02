@@ -17,11 +17,14 @@
 # how to use?
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-1. ![Click to Download me](https://github.com/GodFather850/system-status-in-linux/archive/refs/heads/main.zip)
+1. Download
+```bash
+git clone https://github.com/CAgent47/system-status-in-linux.git
+```
 
-2. goto Downloads
+3. goto Downloads
 
-3. permision
+4. permision
 ```bash
 chmod +x checker.sh
 ```
