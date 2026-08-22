@@ -6,6 +6,11 @@
 ![bash_logo](bash_logo.png)
 
 ---
+
+# Upgrading..
+
+---
+
 # Features
 
 1. Beautiful and tidy appearance
