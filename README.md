@@ -7,10 +7,6 @@
 
 ---
 
-# Upgrading..
-
----
-
 # Features
 
 1. Beautiful and tidy appearance
